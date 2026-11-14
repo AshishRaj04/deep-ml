@@ -15,10 +15,9 @@ def bellman_update(V, transitions, gamma):
     best_action = 0.0
     for v in range(len(V)):
         action_values = []
-        for i in range(len(transitions[v])):
-            transit = transitions[v][i]
+        for i in transitions[v].values():
             summ = 0.0
-            for tr in transit:
+            for tr in i:
                 prob, next_state, reward, is_done = tr
                 summ += prob * (reward + gamma * (0 if is_done else V[next_state]))
             action_values.append(summ)

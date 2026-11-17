@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-06 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-11-14 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-13 | [solution](problems/0009-matrix-times-matrix) |
+| [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-11-17 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-11-07 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ---

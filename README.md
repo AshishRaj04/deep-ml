@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-11-18 | [solution](problems/0165-compute-discounted-return) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-13 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-08 | [solution](problems/0042-implement-relu-activation-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-08 | [solution](problems/0044-leaky-relu-activation-function) |

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 22 problems · 1 labs · 0 math
+**24** solved · 23 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-13 | [solution](problems/0009-matrix-times-matrix) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-11-17 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-11-18 | [solution](problems/0164-gambler-s-problem-value-iteration) |
+| [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-11-28 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-11-18 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-11-24 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-11-23 | [solution](problems/0085-positional-encoding-calculator) |
